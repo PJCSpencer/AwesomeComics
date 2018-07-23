@@ -1,0 +1,7 @@
+{
+    "queryItems" : [
+                    { "noVariants"  : "true" },
+                    { "orderBy"     : "title,issueNumber" },
+                    { "limit"       : "25" }
+    ]
+}
