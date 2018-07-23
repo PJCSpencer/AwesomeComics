@@ -1,7 +1,7 @@
 # AwesomeComics
 
 <p align="center">
-  <img src="https://github.com/PJCSpencer/AwesomeComics/blob/master/thumbnail.png" alt="JSONSceneKit Sample App"/>Screenshot of the included sample app.
+  <img src="https://github.com/PJCSpencer/AwesomeComics/blob/master/thumbnail.png" alt="AwesomeComics iPhone Apps"/>Screenshot of the iPhone apps.
 </p>
 
 # About
