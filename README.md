@@ -9,3 +9,6 @@ Stumbled across the amazing <a href="https://developer.marvel.com" target="_blan
 
 # Installation
 Create a Marvel API developer account, paste private_key & public_key in sdmAPI.swift
+
+# License
+Sources are released under the GNU Lesser General Public License v.3(“LGPL”).
